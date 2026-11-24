@@ -6,6 +6,9 @@ I am making this because I want to grasp at how a CPU really works in the backgr
 
 If you have experience in emulation and spot a bug, please feel free to use the "issues" tab, I am here to learn!
 
+
+This INCLUDES decimal flag.
+
 # Instructions fully complete:
 LDA
 STA
